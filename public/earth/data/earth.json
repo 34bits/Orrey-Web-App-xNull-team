@@ -1,0 +1,76 @@
+{
+  "planet": "Earth",
+  "facts": {
+    "description": "Earth is the only planet known to have liquid water on its surface and life. It is slightly larger than Venus and is the largest of the four terrestrial planets, which are made of rock and metal.",
+    "size": {
+      "radius_km": 6378,
+      "radius_miles": 3959,
+      "comparison": "If Earth were the size of a nickel, Venus would be about the size of a marble."
+    },
+    "distance": {
+      "from_sun_km": 150000000,
+      "from_sun_miles": 93000000,
+      "au": 1,
+      "light_travel_time_minutes": 8
+    },
+    "orbital": {
+      "orbital_period_days": 365.25,
+      "orbital_speed_km_per_s": 29.78,
+      "eccentricity": "Moderately elliptical orbit with a distance ranging from 147 million km to 152 million km from the Sun.",
+      "rotation": {
+        "rotation_period_days": 0.997,
+        "solar_day_days": 1,
+        "axial_tilt_degrees": 23.4,
+        "sunrise_sunset": "Earth's axial tilt causes seasonal variations in sunlight across different regions."
+      }
+    },
+    "temperature": {
+      "daytime_celsius": 15,
+      "nighttime_celsius": -18,
+      "description": "Earth has a stable, habitable climate that supports liquid water and life."
+    },
+    "environment": {
+      "potential_for_life": "Earth is uniquely suited for life, with liquid water, a stable climate, and a diverse atmosphere that supports ecosystems.",
+      "exosphere": {
+        "composition": [
+          "Nitrogen (78%)",
+          "Oxygen (21%)",
+          "Argon",
+          "Carbon Dioxide",
+          "Neon"
+        ],
+        "description": "Earth's atmosphere helps regulate climate and shields the planet from harmful radiation."
+      }
+    },
+    "surface": {
+      "features": [
+        "Volcanoes",
+        "Mountains",
+        "Valleys",
+        "Plains",
+        "Plateaus",
+        "Oceans covering 70% of the surface"
+      ],
+      "appearance": "A diverse surface with landmasses of various terrains, and vast oceans visible from space.",
+      "ice": "Polar ice caps at the north and south poles."
+    },
+    "moons": {
+      "count": 1,
+      "description": "Earth's Moon stabilizes the planet's tilt and has a significant impact on its climate."
+    },
+    "rings": {
+      "count": 0,
+      "description": "Earth has no rings."
+    },
+    "magnetosphere": {
+      "description": "Earth's magnetic field is shaped by the solar wind, protecting the planet from harmful space radiation and creating auroras at the poles."
+    },
+    "formation": {
+      "age_billion_years": 4.5,
+      "description": "Earth formed from dust and gas, pulled together by gravity, as the solar system settled into its current configuration."
+    }
+  },
+  "namesake": {
+    "mythology": "The name Earth comes from Old English and Germanic origins, meaning 'the ground.' It is the only planet not named after a Greek or Roman deity."
+  }
+}

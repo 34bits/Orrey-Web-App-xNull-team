@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Orrery Web App | By XNULL Team</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <dialog class="info" open>
+    <p>Dear User,</p>
+    <br>
+    <p>Thanks for using our webapp.</p>
+    <p>Our dream is to help everyone understand how our solar system works.</p>
+    <p>We want everyone to have the opportunity to learn and explore.</p>
+    <p>Our goal is to provide not just a webapp that you can only see. We want the user to be able to hear.</p>
+    <form method="dialog">
+      <button>Continue</button>
+    </form>
+  </dialog>
+
+
+  <p class="sr">Dear User, You can select your language from the list below:</p>
+  <select name="language" id="language">
+    <option value="english" id="english">English</option>
+    <option value="greek" id="greek">Greek</option>
+  </select>
+  <div id="planet-info"></div>
+  <button id="speakButton">Listen info</button>
+
+  <script type="module" src="/script.js"></script>
+</body>
+
+</html>

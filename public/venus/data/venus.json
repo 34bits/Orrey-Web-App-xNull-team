@@ -1,0 +1,73 @@
+{
+    "planet": "Venus",
+    "facts": {
+      "description": "Venus is the second planet from the Sun and Earth's closest planetary neighbor. It is sometimes called Earth's twin due to its similar size and structure but has a harsh environment with runaway greenhouse effects that make it the hottest planet in our solar system.",
+      "size": {
+        "radius_km": 6052,
+        "radius_miles": 3760,
+        "comparison": "If Earth were the size of a nickel, Venus would be about the same size."
+      },
+      "distance": {
+        "from_sun_km": 108000000,
+        "from_sun_miles": 67000000,
+        "au": 0.72,
+        "light_travel_time_minutes": 6
+      },
+      "orbital": {
+        "orbital_period_days": 225,
+        "orbital_speed_km_per_s": 35,
+        "eccentricity": "Venus has a nearly circular orbit with a very slight eccentricity.",
+        "rotation": {
+          "rotation_period_days": 243,
+          "solar_day_days": 117,
+          "axial_tilt_degrees": 3,
+          "sunrise_sunset": "Sun rises in the west and sets in the east due to Venus' retrograde rotation."
+        }
+      },
+      "temperature": {
+        "surface_celsius": 475,
+        "description": "Venus' surface temperature is hot enough to melt lead, and the atmosphere traps heat in a runaway greenhouse effect."
+      },
+      "environment": {
+        "potential_for_life": "While Venus' surface is too extreme for life, conditions in the upper atmosphere may support extremophile microbes.",
+        "atmosphere": {
+          "composition": [
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Sulfuric Acid"
+          ],
+          "description": "Venus has a thick, toxic atmosphere composed mainly of carbon dioxide with clouds of sulfuric acid."
+        }
+      },
+      "surface": {
+        "features": [
+          "Volcanoes",
+          "Deformed mountains",
+          "Valleys",
+          "Pancake domes",
+          "Tick-like volcanoes"
+        ],
+        "appearance": "Venus' surface is covered by volcanoes and features rugged terrain shaped by tectonic forces.",
+        "craters": "Few impact craters, as volcanic activity resurfaces the planet frequently."
+      },
+      "moons": {
+        "count": 0,
+        "description": "Venus has no moons but does have a quasi-satellite called Zoozve."
+      },
+      "rings": {
+        "count": 0,
+        "description": "Venus has no rings."
+      },
+      "magnetosphere": {
+        "description": "Venus has an induced magnetic field created by the interaction between the Sun's magnetic field and the planet's ionosphere."
+      },
+      "formation": {
+        "age_billion_years": 4.6,
+        "description": "Venus formed around 4.6 billion years ago from the same swirling gas and dust as the other planets in the solar system."
+      }
+    },
+    "namesake": {
+      "mythology": "Named after Venus, the Roman goddess of love and beauty, and the only planet named after a female deity."
+    }
+  }
+  

@@ -1,0 +1,72 @@
+{
+    "planet": "Mars",
+    "facts": {
+      "description": "Mars, the fourth planet from the Sun, is a dusty, cold, desert world with a thin atmosphere. It has seasons, polar ice caps, extinct volcanoes, canyons, and weather patterns.",
+      "size": {
+        "radius_km": 3390,
+        "radius_miles": 2106,
+        "comparison": "If Earth were the size of a nickel, Mars would be about as big as a raspberry."
+      },
+      "distance": {
+        "from_sun_km": 228000000,
+        "from_sun_miles": 142000000,
+        "au": 1.5,
+        "light_travel_time_minutes": 13
+      },
+      "orbital": {
+        "orbital_period_days": 687,
+        "orbital_speed_km_per_s": 24.1,
+        "eccentricity": "Mars has an elliptical orbit, causing its seasons to vary in length.",
+        "rotation": {
+          "rotation_period_days": 1.03,
+          "solar_day_days": 1.03,
+          "axial_tilt_degrees": 25,
+          "seasons": "Mars has seasons like Earth, but they are longer due to its extended orbit."
+        }
+      },
+      "temperature": {
+        "daytime_celsius": 20,
+        "nighttime_celsius": -153,
+        "description": "Mars has a wide temperature range due to its thin atmosphere, with daytime temperatures reaching up to 20°C (68°F) and nighttime temperatures dropping to as low as -153°C (-225°F)."
+      },
+      "environment": {
+        "potential_for_life": "Mars is unlikely to support life today, but scientists are looking for signs of past life when it had liquid water and a thicker atmosphere.",
+        "atmosphere": {
+          "composition": [
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Argon"
+          ],
+          "description": "Mars has a thin atmosphere mostly composed of carbon dioxide, with traces of nitrogen and argon."
+        }
+      },
+      "surface": {
+        "features": [
+          "Olympus Mons – the largest volcano in the solar system",
+          "Valles Marineris – a canyon stretching over 3,000 miles",
+          "Ancient river valleys, lakebeds, and evidence of past water flows"
+        ],
+        "appearance": "Mars appears red due to iron minerals in the soil oxidizing (rusting), though its surface also shows shades of brown, gold, and tan.",
+        "water": "Water is found as ice under the surface in polar regions, and there is evidence of briny water flowing seasonally."
+      },
+      "moons": {
+        "count": 2,
+        "description": "Mars has two small, irregularly shaped moons, Phobos and Deimos, which may be captured asteroids."
+      },
+      "rings": {
+        "count": 0,
+        "description": "Mars has no rings, but Phobos may break apart and form a ring in about 50 million years."
+      },
+      "magnetosphere": {
+        "description": "Mars does not have a global magnetic field, but parts of its crust are highly magnetized, indicating a past magnetic field."
+      },
+      "formation": {
+        "age_billion_years": 4.5,
+        "description": "Mars formed from the same cloud of gas and dust that created the rest of the solar system."
+      }
+    },
+    "namesake": {
+      "mythology": "Named after the Roman god of war due to its reddish color, reminiscent of blood. Other cultures also named Mars for its red appearance."
+    }
+  }
+  
