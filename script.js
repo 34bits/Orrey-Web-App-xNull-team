@@ -810,19 +810,17 @@ gui
   });
 
 /**
- *
+ * Page Translation
  */
 
 window.addEventListener("DOMContentLoaded", function () {
   const languageSelect = document.getElementById("language");
-
-  // Set the initial value of the dropdown based on the current page
   const currentPage = window.location.pathname;
 
-  if (currentPage.includes("index-gr.html")) {
+  if (currentPage.includes("app-gr.html")) {
     languageSelect.value = "greek";
   } else {
-    languageSelect.value = "english"; // Default to English
+    languageSelect.value = "english"; 
   }
 
   // Redirect on language change
