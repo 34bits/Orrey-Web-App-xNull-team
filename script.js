@@ -5,12 +5,6 @@ import GUI from "lil-gui";
 import { Raycaster } from "three";
 import { gsap } from "gsap/gsap-core";
 
-
-/**
- *  
- */
-
-
 /**
  *  Scene Creation
  */
