@@ -4,6 +4,7 @@
 
 ### JAVASCRIPT - For the creation of the orrery.
 ### HTML / CSS - For the creation of the static pages
+### THREE.JS - [https://threejs.org/]
 ### VITE - Frontend framework
 
 ## Materials / Textures
@@ -14,3 +15,4 @@
 ## text to speech system
 
 #### Web Speech API
+
