@@ -1,6 +1,6 @@
 # Orrery Web App By XNULL Team
 
-Our dream is to help visual impaired people to understand more about our solar system. 
+Our dream is to help visual impaired people understand more about our solar system. 
 We want everyone to have the opportunity to explore and learn.
 
 ## TECH STACK
