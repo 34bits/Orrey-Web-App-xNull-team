@@ -3,7 +3,7 @@
 ## TECH STACK
 
 ### JAVASCRIPT - For the creation of the orrery.
-### HTML / CSS - For the creation of the static / denamic pages
+### HTML / CSS - For the creation of the static pages
 ### VITE - Frontend framework
 
 ## Materials / Textures
