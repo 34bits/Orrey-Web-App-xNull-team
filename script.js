@@ -730,7 +730,7 @@ function displayPlanetInfo(planet) {
         <p><strong>Gravity:</strong> ${planetInfo.gravity}</p>
         <p><strong>Orbit Period:</strong> ${planetInfo.orbitPeriod}</p>
         <p><strong>Atmosphere:</strong> ${planetInfo.atmosphere}</p>
-        <h2 style="margin: 1rem 0">Decription</h2>
+        <h2 style="margin: 1rem 0">Description</h2>
         <p>${planetInfo.description}</p>
         <img src="${planetInfo.image}" style="width: 100px; height: 100px;" alt="A detailed image of ${planetInfo.name}.">
         <h2 style="margin: 1rem 0">Fact</h2>
