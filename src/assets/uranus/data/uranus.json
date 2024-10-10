@@ -1,0 +1,57 @@
+{
+    "planet": "Uranus",
+    "facts": {
+      "description": "Uranus is the seventh planet from the Sun and has the third-largest diameter in the solar system. It is a cold, windy world with a unique sideways rotation, making it one of the most unusual planets in the solar system.",
+      "size": {
+        "radius_km": 25559,
+        "radius_miles": 15859,
+        "comparison": "If Earth were the size of a nickel, Uranus would be about as big as a softball."
+      },
+      "distance": {
+        "from_sun_km": 2900000000,
+        "from_sun_miles": 1800000000,
+        "au": 19,
+        "light_travel_time_minutes": 160
+      },
+      "orbital": {
+        "orbital_period_days": 30687,
+        "orbital_speed_km_per_s": 6.8,
+        "eccentricity": "Uranus follows a near-circular orbit around the Sun.",
+        "rotation": {
+          "rotation_period_hours": 17,
+          "axial_tilt_degrees": 97.77,
+          "sunrise_sunset": "Because of Uranus' extreme tilt, its poles experience 21-year-long days and nights."
+        }
+      },
+      "temperature": {
+        "min_celsius": -224.2,
+        "description": "Uranus has one of the coldest atmospheres in the solar system, with temperatures even lower than Neptune in certain regions."
+      },
+      "environment": {
+        "potential_for_life": "Uranus' extreme temperatures, pressures, and volatile composition make it highly unlikely to support life as we know it."
+      },
+      "surface": {
+        "features": "As an ice giant, Uranus doesn't have a solid surface. Its outer layers are made up of swirling icy materials like water, ammonia, and methane.",
+        "appearance": "The planet appears blue-green due to methane in the atmosphere absorbing red light and reflecting blue."
+      },
+      "moons": {
+        "count": 28,
+        "description": "Uranus has 28 known moons, named after characters from the works of William Shakespeare and Alexander Pope."
+      },
+      "rings": {
+        "count": 13,
+        "description": "Uranus has 13 faint rings, with the outermost ones colored blue and red, and the inner rings mostly dark grey."
+      },
+      "magnetosphere": {
+        "description": "Uranus' magnetic field is irregularly shaped, tilted nearly 60 degrees from the planet's axis and offset from the center. The magnetosphere extends into space in a corkscrew shape due to the planet's sideways rotation."
+      },
+      "formation": {
+        "age_billion_years": 4.5,
+        "description": "Uranus formed around 4.5 billion years ago from gas and dust. It likely migrated to its current position in the outer solar system from a closer orbit."
+      }
+    },
+    "namesake": {
+      "mythology": "Named after Uranus, the Greek god of the sky, as suggested by Johann Bode. It was the first planet discovered using a telescope."
+    }
+  }
+  

@@ -6,9 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "vercel --prod"
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "vite": "^5.4.8"
   },
   "dependencies": {
@@ -17,6 +19,7 @@
     "gsap": "^3.12.5",
     "lil-gui": "^0.19.2",
     "openai": "^4.67.1",
-    "three": "^0.169.0"
+    "three": "^0.169.0",
+    "vercel": "^37.6.2"
   }
 }

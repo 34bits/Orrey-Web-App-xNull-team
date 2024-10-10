@@ -1,0 +1,61 @@
+{
+    "planet": "Neptune",
+    "facts": {
+      "description": "Neptune is the eighth and most distant planet in our solar system. It is a dark, cold ice giant, known for supersonic winds and its deep blue color.",
+      "size": {
+        "radius_km": 24622,
+        "radius_miles": 15300,
+        "comparison": "If Earth were the size of a nickel, Neptune would be about as big as a baseball."
+      },
+      "distance": {
+        "from_sun_km": 4500000000,
+        "from_sun_miles": 2800000000,
+        "au": 30,
+        "light_travel_time_minutes": 240
+      },
+      "orbital": {
+        "orbital_period_days": 60190,
+        "orbital_speed_km_per_s": 5.43,
+        "eccentricity": "Neptune's orbit brings it sometimes farther than Pluto from the Sun due to Pluto's eccentric orbit.",
+        "rotation": {
+          "rotation_period_hours": 16,
+          "axial_tilt_degrees": 28,
+          "seasons": "Neptune experiences seasons lasting over 40 years due to its long orbit and tilted axis."
+        }
+      },
+      "temperature": {
+        "average_celsius": -214,
+        "description": "Neptune's frigid temperatures are typical of outer solar system planets, and its distance from the Sun gives it dim sunlight."
+      },
+      "environment": {
+        "potential_for_life": "Neptune's extreme temperatures, high pressures, and volatile materials make it unlikely to support life as we know it."
+      },
+      "surface": {
+        "features": [
+          "No solid surface",
+          "Deep atmosphere of hydrogen, helium, and methane",
+          "Merging into icy and watery layers above a rocky core"
+        ],
+        "appearance": "Neptune's deep blue color comes from methane in the atmosphere, which absorbs red light and reflects blue."
+      },
+      "moons": {
+        "count": 16,
+        "description": "Neptune's largest moon, Triton, is unique with its retrograde orbit, suggesting it was likely captured by Neptune."
+      },
+      "rings": {
+        "count": 5,
+        "description": "Neptune has five known rings, with peculiar clumps of dust called arcs stabilized by the nearby moon, Galatea."
+      },
+      "magnetosphere": {
+        "description": "Neptune's magnetic field is tilted 47 degrees from its rotational axis, causing extreme magnetic variations. Its field is 27 times more powerful than Earth's."
+      },
+      "formation": {
+        "age_billion_years": 4.5,
+        "description": "Neptune formed around 4.5 billion years ago, likely closer to the Sun before migrating outward."
+      }
+    },
+    "namesake": {
+      "mythology": "Named after Neptune, the Roman god of the sea."
+    }
+  }
+  

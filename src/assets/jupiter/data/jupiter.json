@@ -1,0 +1,78 @@
+{
+  "planet": "Jupiter",
+  "facts": {
+    "description": "Jupiter is the largest planet in our solar system, known for its massive size, swirling clouds, and the famous Great Red Spot. It could fit 1,000 Earths inside its volume and has a dynamic atmosphere full of storms and fast-moving winds.",
+    "size": {
+      "radius_km": 69911,
+      "radius_miles": 43440.7,
+      "comparison": "If Earth were the size of a grape, Jupiter would be about as big as a basketball."
+    },
+    "distance": {
+      "from_sun_km": 778000000,
+      "from_sun_miles": 484000000,
+      "au": 5.2,
+      "light_travel_time_minutes": 43
+    },
+    "orbital": {
+      "orbital_period_days": 4333,
+      "orbital_speed_km_per_s": 13.07,
+      "eccentricity": "Jupiter's orbit is slightly elliptical, with minimal axial tilt, leading to very mild seasons.",
+      "rotation": {
+        "rotation_period_hours": 10,
+        "solar_day_hours": 10,
+        "axial_tilt_degrees": 3,
+        "sunrise_sunset": "Jupiter's rapid rotation means a day lasts only 10 hours, the shortest in the solar system."
+      }
+    },
+    "temperature": {
+      "cloud_top_temperature_celsius": -145,
+      "description": "Jupiter's upper atmosphere is extremely cold, but the planet has no true surface. Deep below the clouds, temperatures increase dramatically due to high pressures."
+    },
+    "environment": {
+      "potential_for_life": "Jupiter's environment is not conducive to life as we know it, but some of its moons, like Europa, may harbor life in subsurface oceans."
+    },
+    "atmosphere": {
+      "composition": [
+        "Hydrogen",
+        "Helium",
+        "Ammonia",
+        "Methane",
+        "Water Vapor"
+      ],
+      "cloud_layers": {
+        "top": "Ammonia ice",
+        "middle": "Ammonium hydrosulfide",
+        "bottom": "Water ice and vapor"
+      },
+      "description": "Jupiter's atmosphere consists of bands of clouds, strong jet streams, and large storms, including the Great Red Spot."
+    },
+    "surface": {
+      "features": [
+        "Great Red Spot – a storm larger than Earth",
+        "Cyclonic storms",
+        "Colorful belts and zones of clouds",
+        "Strong jet streams"
+      ],
+      "appearance": "Jupiter's cloud bands and swirling storms create colorful and dynamic patterns across its gaseous surface.",
+      "description": "As a gas giant, Jupiter has no solid surface, only layers of clouds and deeper, hotter, denser gas."
+    },
+    "moons": {
+      "count": 95,
+      "description": "Jupiter has 95 moons, including the Galilean satellites (Io, Europa, Ganymede, and Callisto). These moons are among the most fascinating destinations for future exploration, with Europa being a candidate for hosting life."
+    },
+    "rings": {
+      "count": 1,
+      "description": "Jupiter has faint rings composed of dust particles kicked up from impacts on its small moons."
+    },
+    "magnetosphere": {
+      "description": "Jupiter's magnetic field is the strongest of any planet, 16-54 times stronger than Earth's. Its magnetosphere extends far into space, influencing its moons and generating spectacular auroras at the poles."
+    },
+    "formation": {
+      "age_billion_years": 4.6,
+      "description": "Jupiter formed from gas and dust left over from the Sun's formation, capturing most of the mass in the solar system after the Sun."
+    }
+  },
+  "namesake": {
+    "mythology": "Named after Jupiter, the king of the ancient Roman gods, reflecting the planet's massive size and prominence in the solar system."
+  }
+}

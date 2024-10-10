@@ -1,0 +1,73 @@
+{
+  "planet": "Mercury",
+  "facts": {
+    "description": "Mercury is the smallest planet in our solar system and the closest to the Sun. It's slightly larger than Earth's Moon, and from its surface, the Sun appears more than three times larger than when viewed from Earth.",
+    "size": {
+      "radius_km": 2410,
+      "radius_miles": 1516,
+      "comparison": "If Earth were the size of a nickel, Mercury would be about as big as a blueberry."
+    },
+    "distance": {
+      "from_sun_km": 58000000,
+      "from_sun_miles": 36000000,
+      "au": 0.4,
+      "light_travel_time_minutes": 3.2
+    },
+    "orbital": {
+      "orbital_period_days": 88,
+      "orbital_speed_km_per_s": 47,
+      "eccentricity": "Highly eccentric orbit with distances ranging from 47 million km to 70 million km from the Sun.",
+      "rotation": {
+        "rotation_period_days": 59,
+        "solar_day_days": 176,
+        "axial_tilt_degrees": 2,
+        "sunrise_sunset": "Due to its unique rotation and orbit, sunrise and sunset are unusual on Mercury."
+      }
+    },
+    "temperature": {
+      "daytime_celsius": 430,
+      "nighttime_celsius": -180,
+      "description": "Mercury's temperatures are extremely variable, with no atmosphere to retain heat."
+    },
+    "environment": {
+      "potential_for_life": "Mercury's extreme temperatures and solar radiation make it unlikely to support life as we know it.",
+      "exosphere": {
+        "composition": [
+          "Oxygen",
+          "Sodium",
+          "Hydrogen",
+          "Helium",
+          "Potassium"
+        ],
+        "description": "Mercury has a thin exosphere composed of atoms blasted off the surface."
+      }
+    },
+    "surface": {
+      "features": [
+        "Many impact craters",
+        "Large impact basins such as Caloris (960 miles) and Rachmaninoff (190 miles)",
+        "Cliffs hundreds of miles long"
+      ],
+      "appearance": "Most of Mercury's surface appears greyish-brown, with bright streaks called 'crater rays'.",
+      "ice": "Potential for water ice exists in permanently shadowed craters at the poles."
+    },
+    "moons": {
+      "count": 0,
+      "description": "Mercury has no moons."
+    },
+    "rings": {
+      "count": 0,
+      "description": "Mercury has no rings."
+    },
+    "magnetosphere": {
+      "description": "Mercury has a weak magnetic field, about 1% of Earth's, which interacts with the solar wind to create magnetic tornadoes."
+    },
+    "formation": {
+      "age_billion_years": 4.5,
+      "description": "Mercury formed from swirling gas and dust pulled together by gravity."
+    }
+  },
+  "namesake": {
+    "mythology": "Named after the swiftest of the ancient Roman gods."
+  }
+}

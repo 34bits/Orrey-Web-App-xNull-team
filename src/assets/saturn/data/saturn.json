@@ -1,0 +1,64 @@
+{
+    "planet": "Saturn",
+    "facts": {
+      "description": "Saturn is the sixth planet from the Sun and the second-largest in the solar system. It is known for its spectacular ring system and its many moons, including Titan and Enceladus.",
+      "size": {
+        "radius_km": 60268,
+        "radius_miles": 37468,
+        "comparison": "If Earth were the size of a nickel, Saturn would be about as big as a volleyball."
+      },
+      "distance": {
+        "from_sun_km": 1400000000,
+        "from_sun_miles": 886000000,
+        "au": 9.5,
+        "light_travel_time_minutes": 80
+      },
+      "orbital": {
+        "orbital_period_days": 10756,
+        "orbital_speed_km_per_s": 9.68,
+        "eccentricity": "Saturn has a slightly eccentric orbit around the Sun.",
+        "rotation": {
+          "rotation_period_hours": 10.7,
+          "axial_tilt_degrees": 26.73,
+          "seasons": "Saturn experiences seasons similar to Earth due to its axial tilt."
+        }
+      },
+      "moons": {
+        "count": 146,
+        "description": "As of 2023, Saturn has 146 moons, including Titan, which has a thick atmosphere, and Enceladus, which has jets of water."
+      },
+      "rings": {
+        "count": 7,
+        "description": "Saturn’s rings are made of billions of pieces of ice and rock. The main rings are A, B, and C, with additional faint rings like D, E, F, and G."
+      },
+      "formation": {
+        "age_billion_years": 4.5,
+        "description": "Saturn formed from the primordial gas and dust that coalesced to form the solar system."
+      },
+      "structure": {
+        "description": "Saturn is mostly made of hydrogen and helium, with a dense core surrounded by liquid metallic hydrogen."
+      },
+      "surface": {
+        "description": "As a gas giant, Saturn doesn’t have a solid surface; it’s mostly swirling gases and liquids."
+      },
+      "atmosphere": {
+        "composition": [
+          "Hydrogen",
+          "Helium",
+          "Methane",
+          "Ammonia"
+        ],
+        "description": "Saturn’s atmosphere is composed of bands of clouds and storms with winds reaching 1,600 feet per second (500 meters per second)."
+      },
+      "magnetosphere": {
+        "description": "Saturn’s magnetic field is 578 times more powerful than Earth's, encompassing the planet, its rings, and many of its moons."
+      },
+      "potential_for_life": {
+        "description": "Saturn’s environment is too extreme for life as we know it, but moons like Enceladus and Titan may harbor the conditions for life."
+      }
+    },
+    "namesake": {
+      "mythology": "Saturn is named after the Roman god of agriculture and wealth, father of Jupiter."
+    }
+  }
+  

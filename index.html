@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Favicon -->
     <link rel="icon" href="favicon.png" type="image/png">
     <title>Orrery Web App | By xNULL Team</title>
-    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="/src/styles/home.css">
 </head>
+
 <body>
     <div class="background">
         <!-- The Sun -->
         <div class="sun"></div>
-        
+
         <!-- Planets with orbits -->
         <div class="orbit mercury-orbit">
             <div class="planet" id="mercury"></div>
@@ -38,7 +40,7 @@
         <div class="orbit neptune-orbit">
             <div class="planet" id="neptune"></div>
         </div>
-        
+
         <!-- Stars -->
         <div class="stars"></div>
     </div>
@@ -51,10 +53,10 @@
     <main>
 
         <section id="solar-system">
-            <a href="app.html">
-                <button id="toggle-info">Orrery Web App</button>
+            <a href="src/pages/app.html">
+                <button>Orrery Web App</button>
             </a>
-             
+
         </section>
     </main>
 
@@ -62,6 +64,7 @@
         <p>&copy; xNull Team - NASA Space Apps Challenge 2024</p>
     </footer>
 
-    <script type="module" src="home.js"></script>
+    <script type="module" src="src/js/home.js"></script>
 </body>
+
 </html>
