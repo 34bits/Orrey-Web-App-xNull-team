@@ -19,3 +19,8 @@ We want everyone to have the opportunity to explore and learn.
 
 #### Web Speech API
 
+### How to use the project
+
+## npm install
+
+## npm run dev
